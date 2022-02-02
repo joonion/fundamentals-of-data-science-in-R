@@ -1,1 +1,1 @@
-# fundamentals-of-data-science-in-R
+# Fundamentals of Data Science in R
